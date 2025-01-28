@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hi, I'm Gil! 
 
-<!--
-**gilberton3to/gilberton3to** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Typing Animation](https://readme-typing-svg.herokuapp.com?color=1A73E8&size=25&lines=Developer;iOS+Designer;Apple+plataforms)
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🎓 **Computer Engineer in formation**
+- 🍎 I'm a **Apple** multi-plataform developer
+- 💻 I work with **Python**, **Java**, **C** e **C++**  
+- 🎨 Obsessed with clean design, fluid animations and smooth transitions
+- 🎧 Creator of experiences that connect people 
+- 🌎 I'm from Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🦾 Technologies
+- **Frameworks**: SwiftUI, UIKit  
+- **Tools**: Xcode, Git, Figma, Apple Vision Pro, Eclipse, Netbeans, PyQT & more
+
+### 📨 Contact-me
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gilberto%20Neto-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gilberto-neto21)  
+- [![Email](https://img.shields.io/badge/Gmail-Gilberto%20Neto-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gilbertogomes.ac@gmail.com)
+
+# 🛠️ Some cool things
+
+- **Estatísticas de GitHub**:  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilberton3to&show_icons=true&theme=radical)  
+- **Linguagens Mais Usadas**:  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilberton3to&layout=compact&theme=radical)
