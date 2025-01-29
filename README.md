@@ -20,7 +20,9 @@
 
 # 🛠️ Some cool things
 
-- **Estatísticas de GitHub**:  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gilberton3to&show_icons=true&theme=radical)  
-- **Linguagens Mais Usadas**:  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gilberton3to&layout=compact&theme=radical)
+- **GitHub statistics**:  
+  <div>
+  <a href="https://github.com/gilberton3to">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gilberton3to&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gilberton3to&layout=compact&langs_count=168&theme=radical"/>
+<div>
