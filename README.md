@@ -18,7 +18,7 @@
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Gilberto%20Neto-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/gilberto-neto21)  
 - [![Email](https://img.shields.io/badge/Gmail-Gilberto%20Neto-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gilbertogomes.ac@gmail.com)
 
-# 🛠️ Some cool things
+## 🛠️ Some cool things
 
 - **GitHub statistics**:  
   <div>
