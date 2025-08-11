@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🎓 **Computer Engineer in formation**
 - 🍎 I'm a **Apple** multi-plataform developer
-- 💻 I work with **Python**, **Java**, **C** e **C++**  
+- 💻 I work with **Swift**, **Python**, **Java**, **C** e **C++**  
 - 🎨 Obsessed with clean design, fluid animations and smooth transitions
 - 🎧 Creator of experiences that connect people 
 - 🌎 I'm from Brazil
